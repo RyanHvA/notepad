@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Notepad</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_edit">EditActivity</string>
+    <string name="custom_title_here">Custom title here</string>
+    <string name="custom_note_here">Custom note here</string>
+    <string name="personal_title_here">Personal Title Here</string>
+    <string name="date_here">Last updated: %1s</string>
+    <string name="note_here">note here</string>
+</resources>
